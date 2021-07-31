@@ -1,6 +1,6 @@
 Hi! My name is Leo Mansini, and I'm a Computer Science student at University of Buenos Aires, Argentina.
 - Was going to study physics, but in the process I was completely drawn into Scientific Programming instead!
-- In love with python and data science.
+- In love with Python and Data Science.
 - Looking to learn more about Machine Learning, excited about data-related AI!
 
 <!---
